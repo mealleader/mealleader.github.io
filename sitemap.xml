@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mealleader.github.io/</loc>
-    <lastmod>2019-04-23T17:29:49+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://mealleader.github.io/posts/</loc>
     <lastmod>2019-04-23T17:29:49+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mealleader.github.io/posts/second-post/</loc>
+    <loc>https://mealleader.github.io/posts/posts/</loc>
     <lastmod>2019-04-23T17:29:49+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mealleader.github.io/posts/first-post/</loc>
-    <lastmod>2019-04-23T17:09:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mealleader.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mealleader.github.io/tags/</loc>
+    <loc>https://mealleader.github.io/posts/posts/second-post/</loc>
+    <lastmod>2019-04-23T17:29:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mealleader.github.io/posts/posts/first-post/</loc>
+    <lastmod>2019-04-23T17:09:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mealleader.github.io/posts/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mealleader.github.io/posts/tags/</loc>
     <priority>0</priority>
   </url>
   
